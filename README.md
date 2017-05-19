@@ -37,7 +37,7 @@ See
 Normal installation via pip:
 
 ```bash
-pip3 install https://github.com/manylabs/yaglib.git
+pip3 install git+git://github.com/manylabs/yaglib.git
 ```
 
 Development - use local source tree
